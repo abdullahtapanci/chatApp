@@ -9,7 +9,7 @@ import (
 
 func OpenDBConnection() (*sql.DB, error) {
 
-	dbUsers, err := sql.Open("mysql", "root:Abdullah.1046@tcp(127.0.0.1:3306)/exclusiveChatDB")
+	dbUsers, err := sql.Open("mysql", "username:password@tcp(127.0.0.1:3306)/dbName")
 
 	if err != nil {
 		fmt.Println("Error opening the database:", err)

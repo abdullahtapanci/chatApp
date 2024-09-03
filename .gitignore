@@ -5,3 +5,13 @@
 /server/.DS_Store
 
 /.DS_Store
+
+/client/build/
+/server/build/
+/server/bin/
+/server/vendor/
+
+/client/logs
+/server/logs
+*.log
+.env
