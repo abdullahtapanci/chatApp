@@ -9,7 +9,7 @@
 - Go fiber websocket
 - Golang JWT
 
-###Frontend side
+### Frontend side
 - React
 - Tailwindcss
 
