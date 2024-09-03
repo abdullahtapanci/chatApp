@@ -15,3 +15,5 @@
 /server/logs
 *.log
 .env
+
+/allfileshaswithsizes.txt
